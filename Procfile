@@ -1,1 +1,1 @@
-web: ./build/install/todo/bin/todo
+web: ./build/install/Hero-Squad/bin/Hero-Squad
