@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HeroTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-05-14T14:42:43" hostname="Serahs-MacBook-Air.local" time="0.022">
+  <properties/>
+  <testcase name="Hero_istantiatesCorrectly_true" classname="HeroTest" time="0.003"/>
+  <testcase name="Hero_canBeAssignedName_String" classname="HeroTest" time="0.001"/>
+  <testcase name="Hero_canBeAssignedAPower_String" classname="HeroTest" time="0.004"/>
+  <testcase name="Hero_canBeAssignedAnAge" classname="HeroTest" time="0.0"/>
+  <testcase name="all_returnsAllInstancesOfSquad_true" classname="HeroTest" time="0.0"/>
+  <testcase name="Hero_canBeAssignedAWeakness_String" classname="HeroTest" time="0.0"/>
+  <testcase name="clear_emptiesAllSquadsFromArrayList_0" classname="HeroTest" time="0.0"/>
+  <testcase name="squad_WillReturnSquadWithSameId_mySquad2" classname="HeroTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

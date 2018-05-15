@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SquadTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-05-14T14:42:43" hostname="Serahs-MacBook-Air.local" time="0.011">
+  <properties/>
+  <testcase name="Squad_canBeAssignedCause_String" classname="SquadTest" time="0.002"/>
+  <testcase name="Squad_canBeAssignedName_String" classname="SquadTest" time="0.001"/>
+  <testcase name="Squad_canBeAssignedSize_String" classname="SquadTest" time="0.0"/>
+  <testcase name="all_returnsAllInstancesOfSquad_true" classname="SquadTest" time="0.0"/>
+  <testcase name="clear_emptiesAllSquadsFromArrayList_0" classname="SquadTest" time="0.0"/>
+  <testcase name="Squad_instantiatesCorrectly_true" classname="SquadTest" time="0.004"/>
+  <testcase name="squad_WillReturnSquadWithSameId_mySquad2" classname="SquadTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
