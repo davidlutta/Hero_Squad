@@ -24,6 +24,7 @@ public class App{
 
         setPort(port);
 
+        staticFileLocation("/public");
         String layout = "templates/layout.vtl";
 
         //Get method for the homepage

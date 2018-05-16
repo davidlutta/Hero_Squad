@@ -13,7 +13,7 @@
 *.dmg
 *.gz
 *.iso
-*.jar
+*.jar›
 *.rar
 *.tar
 *.zip
@@ -37,3 +37,4 @@ Thumbs.db
 build/
 .gradle/
 .idea/
+!gradle-wrapper.jar
