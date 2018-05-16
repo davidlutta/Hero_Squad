@@ -17,3 +17,4 @@ dependencies {
     }
 defaultTasks = ['clean']
 //task stage(dependsOn: ['clean', 'installApp'])
+task stage(dependsOn: ['clean', 'installApp'])
