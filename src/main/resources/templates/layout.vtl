@@ -4,15 +4,21 @@
     <title>Hero Squad !</title>
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
     <link rel='stylesheet' href='/app.css'>
+
 </head>
 <body>
-<nav class="navbar navbar-default navbar-static-top">
-    <div class="container">
-        <a href="/">Home</a>
-        <a href="/squad">View Squads</a>
-        <a href="/squads/new">Add a Squad</a>
-    </div>
+
+
+<div class="filler one"></div>
+<nav id="navbar">
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/squad">View Squads</a></li>
+        <li><a href="/squads/new">Add a Squad</a></li>
+    </ul>
 </nav>
+
+
 <div class="container">
     #parse( $template )
 </div>
